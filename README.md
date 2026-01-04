@@ -19,6 +19,9 @@ Hardware Innovation: Developing custom electronic boards and microcontroller pro
 Most of my high-impact industrial projects—including custom SCADA systems and IoT monitoring tools—reside in private repositories due to Non-Disclosure Agreements (NDA) and sensitive client data from the food processing industry. These solutions have successfully generated significant operational savings and qualified companies for federal innovation incentives (Lei do Bem).
 
 🌐 Connect with Me
+
 Portfolio: staranytech.com
+
 LinkedIn: https://www.linkedin.com/in/thalison-fernandes-885043202
+
 I am currently relocating to Texas, USA, and looking for opportunities to apply my hybrid expertise in automation and software."
