@@ -1,4 +1,4 @@
-"# Hi, I'm Thalison Fernandes! 🚀
+# Hi, I'm Thalison Fernandes! 🚀
 
 Industrial Automation & Controls Specialist | Full Stack Developer | CEO at Star Any Tech
 
@@ -24,4 +24,4 @@ Portfolio: staranytech.com
 
 LinkedIn: https://www.linkedin.com/in/thalison-fernandes-885043202
 
-I am currently relocating to Texas, USA, and looking for opportunities to apply my hybrid expertise in automation and software."
+I am currently relocating to Texas, USA, and looking for opportunities to apply my hybrid expertise in automation and software.
